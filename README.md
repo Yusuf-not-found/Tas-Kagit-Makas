@@ -7,4 +7,4 @@ Bilgisayara karşı şansınız yaver gitmezse,
 `skorlar/` klasörü içinde **adınıza oluşan bir dosya** var.
 
 Oraya biraz müdahale ederseniz...  
-Kimseye bundan bahsetmem. 👾
+Kimseye bundan bahsetmem. 🐻‍❄️
